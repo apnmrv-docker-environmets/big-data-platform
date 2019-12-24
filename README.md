@@ -4,3 +4,10 @@ A development big data infrastructure with docker-compose.
 <br> Just run `docker-compose up` and enjoy!
 
 <br> You can find more explenation in [this article](https://itnext.io/creating-a-big-data-development-platform-using-docker-compose-892f7f4da738).
+
+
+## ports
+
+- hadoop: http://localhost:50070/
+- hue: http://localhost:8888/
+- zeppelin: http://localhost:19090/
